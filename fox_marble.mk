@@ -55,7 +55,7 @@ OF_UNBIND_SDCARD_F2FS := 1
 OF_NO_TREBLE_COMPATIBILITY_CHECK := 1
 
 # OrangeFox Localization Settings
-OF_MAINTAINER=AviderMin
+OF_MAINTAINER=coolzyd
 
 # Dynamic Partition Assist Options
 FOX_USE_DMSETUP := 1
